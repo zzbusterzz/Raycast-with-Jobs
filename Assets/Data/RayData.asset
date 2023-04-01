@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ba2fe445e7ad42468f677be95a3a6a6, type: 3}
+  m_Name: RayData
+  m_EditorClassIdentifier: 
+  RandomRayDataCount: 100
+  rayStructs:
+  - Direction: {x: -0.8114848, y: -0.5898979, z: 0.8230622}
+    Distance: 147.53549
+  - Direction: {x: 0.20735419, y: 0.6473539, z: -0.80996203}
+    Distance: 11.929261
+  - Direction: {x: -0.0015224218, y: -0.5082593, z: -0.18507421}
+    Distance: 152.93044
+  - Direction: {x: -0.73099995, y: -0.98598504, z: 0.8068166}
+    Distance: 152.23398
+  - Direction: {x: -0.99634576, y: -0.44516122, z: -0.36292207}
+    Distance: 96.87636
+  - Direction: {x: 0.5572734, y: 0.019801736, z: 0.52392745}
+    Distance: 118.031975
+  - Direction: {x: 0.11955607, y: -0.53978086, z: -0.40733683}
+    Distance: 141.29735
+  - Direction: {x: 0.80529976, y: 0.89168024, z: 0.09655917}
+    Distance: 158.40642
+  - Direction: {x: 0.0661701, y: 0.3596799, z: -0.6922505}
+    Distance: 181.20348
+  - Direction: {x: -0.47712076, y: 0.49920747, z: -0.928967}
+    Distance: 35.9609
+  - Direction: {x: 0.0753361, y: -0.047246575, z: 0.4341118}
+    Distance: 63.065365
+  - Direction: {x: -0.28750312, y: 0.9496362, z: 0.039049745}
+    Distance: 178.09673
+  - Direction: {x: 0.32750556, y: 0.79327893, z: 0.770941}
+    Distance: 54.898365
+  - Direction: {x: 0.44384453, y: 0.48944852, z: 0.6961167}
+    Distance: 44.50544
+  - Direction: {x: -0.8758848, y: 0.98513865, z: -0.47741044}
+    Distance: 15.387383
+  - Direction: {x: 0.7600093, y: 0.5192096, z: 0.7919047}
+    Distance: 196.77875
+  - Direction: {x: -0.47929442, y: -0.4921192, z: -0.28592598}
+    Distance: 105.72409
+  - Direction: {x: 0.2936971, y: 0.6340287, z: -0.2804531}
+    Distance: 182.64906
+  - Direction: {x: -0.43051064, y: 0.2255286, z: 0.27919075}
+    Distance: 158.32744
+  - Direction: {x: 0.9135201, y: -0.26879203, z: 0.18211424}
+    Distance: 64.14704
+  - Direction: {x: -0.35499346, y: 0.55772686, z: 0.9916396}
+    Distance: 102.29807
+  - Direction: {x: 0.9642093, y: 0.6280215, z: 0.38616583}
+    Distance: 91.2121
+  - Direction: {x: 0.11229336, y: 0.43569157, z: -0.012896419}
+    Distance: 119.60882
+  - Direction: {x: 0.20831406, y: -0.4687103, z: 0.80155516}
+    Distance: 11.476373
+  - Direction: {x: -0.027613282, y: -0.61515355, z: -0.77937365}
+    Distance: 54.399837
+  - Direction: {x: -0.56757855, y: 0.61779547, z: 0.11128199}
+    Distance: 140.59715
+  - Direction: {x: 0.1838466, y: -0.94875383, z: -0.96874046}
+    Distance: 96.50877
+  - Direction: {x: -0.57862616, y: 0.1944331, z: -0.6922834}
+    Distance: 121.95326
+  - Direction: {x: -0.7916558, y: 0.8248396, z: 0.78008914}
+    Distance: 58.594025
+  - Direction: {x: -0.6028857, y: 0.32539746, z: -0.6175451}
+    Distance: 153.31528
+  - Direction: {x: 0.31750485, y: 0.51777434, z: 0.6899462}
+    Distance: 101.30423
+  - Direction: {x: 0.014157414, y: -0.19488561, z: -0.116116405}
+    Distance: 27.533995
+  - Direction: {x: 0.94042873, y: 0.9185362, z: -0.19382513}
+    Distance: 125.97538
+  - Direction: {x: 0.29702637, y: 0.35394618, z: -0.41136777}
+    Distance: 9.271519
+  - Direction: {x: -0.11143601, y: -0.18855059, z: -0.87134504}
+    Distance: 6.1434975
+  - Direction: {x: 0.07912648, y: -0.19608486, z: 0.852154}
+    Distance: 133.39073
+  - Direction: {x: 0.8944857, y: -0.09043038, z: 0.35316727}
+    Distance: 52.959373
+  - Direction: {x: -0.160133, y: 0.40442607, z: -0.8326986}
+    Distance: 1.4537905
+  - Direction: {x: 0.7691517, y: 0.92968607, z: 0.37485072}
+    Distance: 73.52477
+  - Direction: {x: 0.7657471, y: -0.92726326, z: -0.4373418}
+    Distance: 110.478355
+  - Direction: {x: 0.3894026, y: 0.45598504, z: 0.23684943}
+    Distance: 47.332565
+  - Direction: {x: 0.037121177, y: -0.45070183, z: 0.26218864}
+    Distance: 7.7160716
+  - Direction: {x: 0.02946341, y: -0.59594893, z: 0.3428671}
+    Distance: 187.6578
+  - Direction: {x: -0.47795093, y: 0.70687723, z: 0.9730098}
+    Distance: 188.08588
+  - Direction: {x: 0.35630342, y: 0.9647937, z: 0.27333328}
+    Distance: 137.14687
+  - Direction: {x: -0.7183399, y: -0.51804566, z: -0.25237095}
+    Distance: 2.8565106
+  - Direction: {x: -0.5271125, y: -0.6809137, z: -0.024232268}
+    Distance: 155.30656
+  - Direction: {x: 0.77819896, y: -0.26306498, z: -0.7617657}
+    Distance: 138.71999
+  - Direction: {x: 0.73048353, y: 0.43048665, z: 0.7672138}
+    Distance: 128.54393
+  - Direction: {x: 0.63828063, y: 0.77846503, z: 0.79454494}
+    Distance: 8.19413
+  - Direction: {x: 0.14726365, y: -0.47355878, z: -0.29923284}
+    Distance: 107.60694
+  - Direction: {x: -0.9233954, y: -0.768244, z: -0.7496896}
+    Distance: 33.270035
+  - Direction: {x: -0.65375996, y: 0.9598589, z: -0.8999195}
+    Distance: 64.32599
+  - Direction: {x: 0.60407686, y: 0.5054703, z: 0.1453656}
+    Distance: 165.2606
+  - Direction: {x: 0.93223095, y: 0.32343623, z: -0.3512386}
+    Distance: 176.5955
+  - Direction: {x: 0.6040158, y: 0.75339055, z: -0.6209035}
+    Distance: 132.17436
+  - Direction: {x: 0.19252932, y: 0.26297852, z: -0.36816323}
+    Distance: 83.97548
+  - Direction: {x: -0.4933697, y: -0.32310927, z: 0.00063431263}
+    Distance: 30.103325
+  - Direction: {x: -0.31871784, y: 0.15661752, z: -0.5678699}
+    Distance: 6.92708
+  - Direction: {x: -0.93497753, y: 0.31962797, z: 0.66624093}
+    Distance: 188.09743
+  - Direction: {x: -0.5936086, y: 0.692183, z: -0.803669}
+    Distance: 141.3723
+  - Direction: {x: -0.96390605, y: 0.7079983, z: -0.6987884}
+    Distance: 86.95514
+  - Direction: {x: 0.750741, y: 0.037451386, z: 0.24854076}
+    Distance: 44.57281
+  - Direction: {x: -0.47585022, y: 0.27132222, z: -0.8420341}
+    Distance: 104.997185
+  - Direction: {x: -0.54960966, y: -0.5390005, z: 0.054941535}
+    Distance: 82.154976
+  - Direction: {x: 0.8111725, y: -0.68300176, z: 0.006722331}
+    Distance: 186.83054
+  - Direction: {x: -0.19264686, y: 0.05688083, z: 0.20127237}
+    Distance: 43.707314
+  - Direction: {x: -0.34591115, y: -0.9872129, z: 0.7547252}
+    Distance: 99.51806
+  - Direction: {x: -0.28272712, y: 0.058168054, z: -0.75434923}
+    Distance: 193.48296
+  - Direction: {x: -0.56539106, y: 0.8089776, z: 0.7156198}
+    Distance: 74.09526
+  - Direction: {x: -0.8075421, y: 0.30481598, z: 0.52990675}
+    Distance: 19.961441
+  - Direction: {x: 0.19011438, y: -0.3413688, z: -0.8671348}
+    Distance: 35.573578
+  - Direction: {x: 0.14434111, y: -0.8280754, z: 0.19418037}
+    Distance: 23.035494
+  - Direction: {x: -0.47295558, y: 0.6975012, z: 0.90605354}
+    Distance: 13.6729
+  - Direction: {x: -0.74627924, y: -0.31828988, z: 0.5854156}
+    Distance: 39.67826
+  - Direction: {x: -0.79659796, y: 0.3767297, z: 0.34719464}
+    Distance: 85.639145
+  - Direction: {x: -0.29654086, y: 0.90707445, z: -0.44756925}
+    Distance: 56.482994
+  - Direction: {x: 0.95945096, y: 0.5998061, z: -0.6500287}
+    Distance: 14.953093
+  - Direction: {x: 0.42859027, y: 0.5342109, z: -0.6470523}
+    Distance: 135.82205
+  - Direction: {x: 0.84805703, y: -0.6316731, z: 0.42513534}
+    Distance: 61.569057
+  - Direction: {x: -0.95391726, y: 0.73666096, z: 0.9084184}
+    Distance: 28.715527
+  - Direction: {x: -0.31243503, y: 0.22554314, z: 0.047460437}
+    Distance: 41.519234
+  - Direction: {x: -0.46575606, y: -0.0148130655, z: -0.5985539}
+    Distance: 88.038765
+  - Direction: {x: 0.813401, y: -0.87290883, z: -0.27725804}
+    Distance: 17.791983
+  - Direction: {x: -0.78511906, y: 0.41998765, z: -0.1842457}
+    Distance: 117.08867
+  - Direction: {x: 0.5312867, y: 0.5896895, z: -0.6951487}
+    Distance: 9.495792
+  - Direction: {x: -0.8773451, y: -0.91167307, z: 0.34907648}
+    Distance: 11.238244
+  - Direction: {x: 0.47936437, y: 0.7284534, z: 0.06328666}
+    Distance: 122.70697
+  - Direction: {x: -0.7513809, y: 0.6741607, z: -0.389248}
+    Distance: 81.4363
+  - Direction: {x: -0.6711807, y: 0.7017143, z: 0.12624967}
+    Distance: 27.696592
+  - Direction: {x: -0.9154861, y: -0.9663811, z: 0.3374984}
+    Distance: 156.34578
+  - Direction: {x: -0.44266284, y: -0.98087025, z: -0.75419235}
+    Distance: 170.50143
+  - Direction: {x: 0.1732775, y: 0.46226928, z: -0.12694013}
+    Distance: 40.56357
+  - Direction: {x: 0.9654665, y: 0.9710293, z: 0.31815192}
+    Distance: 111.32297
+  - Direction: {x: 0.14890563, y: 0.26989362, z: 0.5461426}
+    Distance: 47.30355
+  - Direction: {x: -0.10348523, y: -0.5354736, z: -0.42491972}
+    Distance: 124.08111
+  - Direction: {x: -0.16381633, y: 0.03961718, z: -0.4076723}
+    Distance: 157.77452
+  - Direction: {x: -0.045408845, y: 0.9949024, z: 0.49578688}
+    Distance: 31.652721
+  - Direction: {x: 0.95203066, y: -0.25634015, z: -0.360016}
+    Distance: 199.88281
+  - Direction: {x: 0.57173085, y: 0.12666523, z: -0.060652614}
+    Distance: 36.593914
